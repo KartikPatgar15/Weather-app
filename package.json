@@ -1,0 +1,29 @@
+{
+  "name": "weather-dashboard",
+  "version": "1.0.0",
+  "description": "A detailed light and dark mode dashboard with a complete overview of live weather conditions in the specified city.",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": [
+    "weather",
+    "dashboard",
+    "javascript",
+    "html",
+    "css",
+    "bootstrap",
+    "openweather-api"
+  ],
+  "author": "KartikPatgar15",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KartikPatgar15/Weather-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KartikPatgar15/Weather-app/issues"
+  },
+  "homepage": "https://github.com/KartikPatgar15/Weather-app#readme"
+}
