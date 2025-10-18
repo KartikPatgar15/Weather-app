@@ -483,7 +483,7 @@ const globalWeather = {
 	},
 };
 
-const OPENWEATHER_KEY = 'b6907d289e10d714a6e88b30761fae22'; // Demo key for testing
+const OPENWEATHER_KEY = '8a81702ec7c87b21a85a77e0e52b8b09'; 
 const weatherService = new WeatherService(OPENWEATHER_KEY);
 
 weatherService.initializeGeolocation();
